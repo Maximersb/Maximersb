@@ -41,8 +41,8 @@ I'm a french student in computer science actually in a two-year courses ! Still 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=for-the-badge&logo=Raspberry-Pi)
 
 ## PS > git status
-![Github Stats](https://github-readme-stats.vercel.app/api?username=maximersb&count_private=false&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximersb&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kurtrsb&count_private=false&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtrsb&hide=TeX&layout=compact)
 ## PS > Get-Process -Name WorkingOn
 - Website for a music artist
 ## PS > Get-Content -Path C:\Maximersb\TODO
